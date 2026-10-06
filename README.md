@@ -22,16 +22,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fixwright&show_icons=true&theme=dark&hide_border=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fixwright&layout=compact&theme=dark&hide_border=true)
 
-## 💰 Payment
-
-Crypto tips / bounty payouts — same address on both networks:
-
-- **ETH (Arbitrum One)**: `0xa4d8F7B1Ff3EEe67Da5d25B110e6795629086C4B`
-- **BNB (BEP20)**: `0xa4d8F7B1Ff3EEe67Da5d25B110e6795629086C4B`
-- **USDC (Arbitrum One)**: `0xa4d8F7B1Ff3EEe67Da5d25B110e6795629086C4B`
-
-> ⚠️ Send only on the matching network. Wrong-network transfers are permanently lost.
-
 ## Currently
 
 - 🔎 Open to bug-bounty collaborations — paid issues welcome
