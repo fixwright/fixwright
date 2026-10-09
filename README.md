@@ -24,11 +24,12 @@
 
 ## 💰 Payment
 
-Crypto tips / bounty payouts — same address on both networks:
+Crypto tips / bounty payouts — same address on all networks:
 
 - **ETH (Arbitrum One)**: `0xa4d8F7B1Ff3EEe67Da5d25B110e6795629086C4B`
 - **BNB (BEP20)**: `0xa4d8F7B1Ff3EEe67Da5d25B110e6795629086C4B`
 - **USDC (Arbitrum One)**: `0xa4d8F7B1Ff3EEe67Da5d25B110e6795629086C4B`
+- **USDC (Base)**: `0xa4d8F7B1Ff3EEe67Da5d25B110e6795629086C4B`
 
 > ⚠️ Send only on the matching network. Wrong-network transfers are permanently lost.
 
